@@ -1,1 +1,16 @@
-This file was created by IntelliJ IDEA 11.1.4 for binding GitHub repository
+Features:
+MAC Spoofing
+MD5 Spoofing
+
+How to install:
+1. Install modloader to a current version of Minecraft.
+2. Copy the bypass to .minecraft
+3. Configure the bypass using .minecraft/config/mod_CAH.cfg
+4. PROFIT ???!!!?!?!?!!?!?!?
+
+CFG File:
+checksum - DO NOT TOUCH
+currentMD5 - FluR0 will provide this when needed, but leave as default unless informed otherwise.
+CAHVer - Same as above.
+spoofMAC - Enable this when using alts, make sure to use a proxy/vpn too.
+spoofedMAC - Change this when using spoofMAC. (http://www.miniwebtool.com/mac-address-generator/ Use colon format and Lowercase) eg. a0:ec:3b:a7:07:e6
